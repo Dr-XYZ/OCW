@@ -8,7 +8,7 @@
 
 #### Thermodynamics
 
-[劉耀先老師 - 熱力學(一) Thermodynamics (I)](https://youtube.com/playlist?list=PLj6E8qlqmkFt83RMhWiOggy669xF9Z3aA&si=ZDH8MUI8g0CChzFb)
+[劉耀先老師 - 熱力學(一) Thermodynamics (I)](https://youtube.com/playlist?list=PLj6E8qlqmkFt83RMhWiOggy669xF9Z3aA&si=ZDH8MUI8g0CChzFb) (YouTube)
 
 #### Calculus
 
@@ -20,11 +20,11 @@
 
 ####  Material Engineering
 
-[103S111 材料力學 (黃尹男)](https://m.youtube.com/playlist?list=PLCX-BLZ1hDpDOgZPSmdMcpgfO5uQ0i4XK)
+[103S111 材料力學 (黃尹男)](https://m.youtube.com/playlist?list=PLCX-BLZ1hDpDOgZPSmdMcpgfO5uQ0i4XK) (YouTube)
 
 #### Physics
 
-[普通物理學 - 張寶棣 教授](https://m.youtube.com/playlist?list=PLil-R4o6jmGglmhup8juuCnAQdOIcpwBb)
+[普通物理學 - 張寶棣 教授](https://m.youtube.com/playlist?list=PLil-R4o6jmGglmhup8juuCnAQdOIcpwBb) (YouTube)
 
 
 
