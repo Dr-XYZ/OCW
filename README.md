@@ -9,6 +9,9 @@
 ### Differential Equations
 [【10510王俊堯教授｜工程數學】](https://www.youtube.com/playlist?list=PLS0SUwlYe8cy7OGTwYextmGL-Tc41vqVf) (YouTube)
 
+### Linear Algebra
+[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) (YouTube)
+
 ## Physics
 
 ### Thermodynamics
